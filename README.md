@@ -11,3 +11,7 @@ The use case for this project is building an end to end solution by ingesting th
 5. PYSPARK
 6. SPARK SQL
 7. Microsoft Power BI
+
+# Steps
+
+![steps](steps.png)
