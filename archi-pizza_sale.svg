@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Light blue background -->
+  <rect x="0" y="0" width="1400" height="900" fill="#e6f0fa"/>
+  <!-- SQL SERVER box (moved to top) -->
+  <rect x="54" y="57" width="302" height="140" rx="8" fill="#e53e3e"/>
+  <text x="205" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">SQL</text>
+  <text x="205" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">SERVER</text>
+  
+<!-- Red arrow pointing down -->
+<path d="M 205 197 L 205 397" stroke="#e53e3e" stroke-width="8" fill="none"/>
+<polygon points="205,397 195,377 215,377" fill="#e53e3e"/>
+  
+  <!-- AZURE DATA FACTORY label -->
+  <text x="305" y="304" fill="#333" font-family="Arial, sans-serif" font-size="28" font-weight="bold">AZURE DATA FACTORY</text>
+  
+  <!-- Red horizontal line for Azure Data Factory -->
+  <line x1="220" y1="300" x2="290" y2="300" stroke="#e53e3e" stroke-width="8"/>
+  
+  <!-- AZURE box (moved to left) -->
+  <rect x="74" y="403" width="348" height="130" rx="8" fill="#e53e3e"/>
+  <text x="248" y="455" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="bold">AZURE</text>
+  
+  <!-- PySpark arrow -->
+  <path d="M 422 473 L 604 473" stroke="#e53e3e" stroke-width="8" fill="none"/>
+  <polygon points="604,473 584,463 584,483" fill="#e53e3e"/>
+  <text x="513" y="455" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="28" font-weight="bold">PySpark</text>
+  
+  <!-- DATABRICKS box -->
+  <rect x="604" y="417" width="244" height="112" rx="8" fill="#e53e3e"/>
+  <text x="726" y="485" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">DATABRICKS</text>
+  
+  <!-- Arrow to AGGREGATES -->
+  <path d="M 848 473 L 968 473" stroke="#e53e3e" stroke-width="8" fill="none"/>
+  <polygon points="968,473 948,463 948,483" fill="#e53e3e"/>
+  
+  <!-- AGGREGATES box -->
+  <rect x="968" y="403" width="244" height="140" rx="8" fill="#e53e3e"/>
+  <!-- Icon circles in AGGREGATES -->
+  <circle cx="1060" cy="445" r="8" fill="white"/>
+  <circle cx="1080" cy="445" r="8" fill="white"/>
+  <circle cx="1100" cy="445" r="8" fill="white"/>
+  <circle cx="1120" cy="445" r="8" fill="white"/>
+  <line x1="1060" y1="455" x2="1080" y2="455" stroke="white" stroke-width="2"/>
+  <line x1="1080" y1="455" x2="1100" y2="455" stroke="white" stroke-width="2"/>
+  <line x1="1100" y1="455" x2="1120" y2="455" stroke="white" stroke-width="2"/>
+  <line x1="1070" y1="465" x2="1090" y2="465" stroke="white" stroke-width="2"/>
+  <line x1="1090" y1="465" x2="1110" y2="465" stroke="white" stroke-width="2"/>
+  <text x="1090" y="505" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">AGGREGATES</text>
+  
+  <!-- Arrow down to POWER BI -->
+  <path d="M 1090 543 L 1090 680" stroke="#e53e3e" stroke-width="8" fill="none"/>
+  <polygon points="1090,680 1080,660 1100,660" fill="#e53e3e"/>
+  
+  <!-- POWER BI box -->
+  <rect x="968" y="680" width="244" height="120" rx="8" fill="#e53e3e"/>
+  <text x="1090" y="735" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">POWER BI</text>
+</svg>

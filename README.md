@@ -14,7 +14,7 @@ The use case for this project is building an end to end solution by ingesting th
 
 # Steps
 
-![steps](steps.png)
+![steps](archi-pizza_sale.svg)
 
 # Dashboard
 
