@@ -17,5 +17,12 @@ The use case for this project is building an end to end solution by ingesting th
 ![steps](archi-pizza_sale.svg)
 
 # Dashboard
+## KPI
+- Total pizza sold
+- Total orders, Total revenue , Avg order value
+- Orders monthly trend
+- Daily orders
+- Sales by pizza size, Sales by pizza category
+- Top 5 best selling pizza
 
 ![dashboard](dashboard.png)
